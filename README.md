@@ -155,7 +155,3 @@ legacy/          # Archived SQLite prep (disabled)
 
 - Índices oficiales FACPCE: https://www.facpce.org.ar/indices-facpce/
 
----
-
-Si quieres, puedo añadir un ejemplo CSV y un pequeño script de smoke-test que
-crea una empresa de ejemplo y guarda/carga en DuckDB para verificar el flujo completo.
